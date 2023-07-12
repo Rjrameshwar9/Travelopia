@@ -1,11 +1,13 @@
 
-Travelopia - Exodus Booking with DUMMY Master Card and Visa Card Details
+**Travelopia - Exodus Booking and Payment Screen with DUMMY Master Card and Visa Card Details
+             - Navigate Between Exodus Domain and Payment GateWay Domain
+             - Navigate Back from Payment Gateway to Exodus Confirmation Domain**
 
-1. Tech Stack :
+**1. Tech Stack :
     a. Cypress 12 version
     b. Typescript
     c. BDD - Cucumber
-    d. Cucumber html Reporter
+    d. Cucumber html Reporter**
 
 
 Exodus Booking - Payment Feature :
