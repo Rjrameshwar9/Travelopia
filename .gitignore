@@ -1,0 +1,16 @@
+# Optional .vscode settings directory
+.vscode
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# cypress files
+cypress/videos
+cypress/screenshots
+cypress/cucumber-json
+
+# Cucumber
+cucumber-report.html
