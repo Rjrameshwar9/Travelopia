@@ -25,6 +25,12 @@ Execution :
 3. To Observe the Execution Through Cypress Runner [Run on Electron Browser]: npx cypress open
 4. In case wanted to have tag based execution  : npx tag: mastercard or npx tag:visa
 
+**  Cypress Runner Execution Screenshots : 
+**
+6. ![Screenshot 2023-07-12 at 4 37 53 PM](https://github.com/Rjrameshwar9/Travelopia/assets/139285775/8ae4319b-a89c-438a-9c30-67a758d71a94)
+7. ![Screenshot 2023-07-12 at 4 39 06 PM](https://github.com/Rjrameshwar9/Travelopia/assets/139285775/e9e2a9c9-5aa0-401f-a9d5-38ef8df90061)
+
+
 
 Reports:
 1. Open the cucumber-report.html after execution
